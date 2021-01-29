@@ -28,7 +28,7 @@
     ],
     "ram": {
       "cid": "baenrwia5vqqvdu5chzjqq57tfo45z2txorpnmljeiuwemcibba43noqpvu",
-      "length": "0x6a6000"
+      "length": "0x4000000"
     },
     "rom": {
       "cid": "baenrwigwdfweve3apyvwicc2zpmzz6vdhsg62xnmzhauruw6ud4dbbafuq"
@@ -37,5 +37,8 @@
       "args": "ls"
     }
   },
-  "version": "0.0.0-development"
+  "version": "0.0.0-development",
+  "repos": [
+    "https://github.com/createdreamtech/carti-default"
+  ]
 }
