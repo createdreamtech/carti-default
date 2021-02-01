@@ -17,7 +17,7 @@
       "uri": "https://github.com/cartesi/image-kernel/releases/download/v0.7.0/linux-5.5.19-ctsi-2.bin"
     },
     {
-      "bundleType": "flash",
+      "bundleType": "flashdrive",
       "name": "default-root",
       "fileName": "rootfs.ext2",
       "id": "baenrwig2hfjzzeqmozb7sws6tyxmyazvuipjp5hxamtllifsokwh73eucy",
